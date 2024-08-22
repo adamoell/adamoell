@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Oellermann (@adamoell).
 - 👀 I’m a pastor of a church in a small town in Scotland, and as well as preaching and Christian theology, I'm interested in Python, hardware hacking and 3D printing/making.
-- 🌱 I’m currently putting together a 'commercial-grade' Open Source laser tag system.
+- 🌱 I’m currently working on helping a youth group realise projects with MicroPython
 - 📫 Email me at adam@oellermann.com
 
 <!---
